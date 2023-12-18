@@ -34,7 +34,7 @@ In this project, we found that improving the overall condition of the house adds
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](Movie_Studio_Analysis.ipynb) or review [Presentation](Movie_Studio_Presentation.pdf)
+See the full analysis in the [Jupyter Notebook](home_renovation_analysis.ipynb) or review [Presentation](Movie_Studio_Presentation.pdf)
 
 ## Repository Structure
 
