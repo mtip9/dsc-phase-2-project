@@ -18,15 +18,15 @@ Data of over 30,000 homes from the King County House Sales dataset. Multiple lin
 
 For every 1% increase in square footage of the living area, we would expect an associated increase of 0.0004% in price
 
-![ROI per Month](https://github.com/mtip9/dsc-phase-2-project/blob/main/images/price_v_sqft_living.png)
+![price_v_sqft_living](https://github.com/mtip9/dsc-phase-2-project/blob/main/images/price_v_sqft_living.png)
 
 For every 1% increase in square footage of the patio, we would expect an associated increase of 0.0002% in price
 
-![ROI per Movie Length](https://github.com/mtip9/dsc-phase-1-project/blob/master/Images/ROI%20per%20Movie%20Length.png)
+![price_v_sqft_patio]()
 
 For a house of Fair condition compared to a house of poor condition, we see an associated increase in price of about 24%. For a house of Average condition compared to a house of poor condition, we see an associated increase in price of about 34%. For a house of good condition compared to a house of poor condition, we see an associated increase in price of about 35%. For a house of very good condition compared to a house of poor condition, we see an associated increase in price of about 42%.
 
-![Top Genres in Top 100 ROI](https://github.com/mtip9/dsc-phase-1-project/blob/master/Images/Top%20Genres%20in%20Top%20100%20ROI.png)
+![price_v_condition](https://github.com/mtip9/dsc-phase-2-project/blob/main/images/price_v_condition.png)
 
 ## Conclusion
 
