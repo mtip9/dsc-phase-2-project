@@ -39,9 +39,10 @@ See the full analysis in the [Jupyter Notebook](Movie_Studio_Analysis.ipynb) or 
 ## Repository Structure
 
 ```
-├── Images
-├── zippedData
-├── Movie_Studio_Analysis.ipynb
-├── Movie_Studio_Presentation.pdf
-└── README.md
+├── data
+├── images
+├── .gitignore
+├── README.md
+├── home_renovation_analysis
+└── home_renovation_presentation
 ```
