@@ -18,7 +18,7 @@ Data of over 30,000 homes from the King County House Sales dataset. Multiple lin
 
 For every 1% increase in square footage of the living area, we would expect an associated increase of 0.0004% in price
 
-![price_v_sqft_living](https://github.com/mtip9/dsc-phase-2-project/blob/main/images/price_v_sqft_living.png)
+![price_v_sqft_living](images/price_v_sqft_living.png)
 
 For every 1% increase in square footage of the patio, we would expect an associated increase of 0.0002% in price
 
